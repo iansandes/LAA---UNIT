@@ -1,0 +1,7 @@
+C:\ATIVIDADES\LAA---UNIT\Conjuntos\bin\Debug\Conjuntos.exe.config
+C:\ATIVIDADES\LAA---UNIT\Conjuntos\bin\Debug\Conjuntos.exe
+C:\ATIVIDADES\LAA---UNIT\Conjuntos\bin\Debug\Conjuntos.pdb
+C:\ATIVIDADES\LAA---UNIT\Conjuntos\obj\Debug\Conjuntos.csprojAssemblyReference.cache
+C:\ATIVIDADES\LAA---UNIT\Conjuntos\obj\Debug\Conjuntos.csproj.CoreCompileInputs.cache
+C:\ATIVIDADES\LAA---UNIT\Conjuntos\obj\Debug\Conjuntos.exe
+C:\ATIVIDADES\LAA---UNIT\Conjuntos\obj\Debug\Conjuntos.pdb

@@ -1,0 +1,7 @@
+C:\ATIVIDADES\LAA---UNIT\Exercicio3\bin\Debug\Exercicio3.exe.config
+C:\ATIVIDADES\LAA---UNIT\Exercicio3\bin\Debug\Exercicio3.exe
+C:\ATIVIDADES\LAA---UNIT\Exercicio3\bin\Debug\Exercicio3.pdb
+C:\ATIVIDADES\LAA---UNIT\Exercicio3\obj\Debug\Exercicio3.csprojAssemblyReference.cache
+C:\ATIVIDADES\LAA---UNIT\Exercicio3\obj\Debug\Exercicio3.csproj.CoreCompileInputs.cache
+C:\ATIVIDADES\LAA---UNIT\Exercicio3\obj\Debug\Exercicio3.exe
+C:\ATIVIDADES\LAA---UNIT\Exercicio3\obj\Debug\Exercicio3.pdb
