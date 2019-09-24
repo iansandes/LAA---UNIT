@@ -41,7 +41,7 @@ namespace Cosmeticos
                     }
                     else
                     {
-                        Console.WriteLine(indices[x]);
+                        Console.WriteLine("Posição do produto {0}: {1}", produtos[i], indices[x]);
                     }
                 }
                 Console.WriteLine();

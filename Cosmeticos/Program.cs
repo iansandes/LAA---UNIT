@@ -10,29 +10,22 @@ namespace Cosmeticos
     {
         static void Main(string[] args)
         {
-            /*Loja teste = new Loja();
-            teste.ordenarEstante(1);
-            teste.imprimir(1);
-            Console.ReadKey();*/
 
+            ParteA parteA = new ParteA();
 
-            /*TesteB teste = new TesteB();
+            parteA.inserirProduto(1, 15);
+            parteA.inserirProduto(1, 9);
+            parteA.inserirProduto(1, 10);
+            parteA.inserirProduto(3, 15);
+            parteA.ordenarProdutos();
 
-            teste.inserirProduto(1, 50);
-            teste.inserirProduto(1, 38);
-            teste.inserirProduto(1, 40);
-            teste.inserirProduto(2, 15);
-            teste.inserirProduto(2, 12);
-            teste.inserirProduto(2, 18);
-            teste.inserirProduto(1, 1);
+            Console.WriteLine();
 
-            teste.ordenarProdutos();*/
-
-            ParteB teste = new ParteB();
-            teste.inserirProduto(1, 15, "bom demais");
-            teste.inserirProduto(1, 9, "top de linha");
-            teste.inserirProduto(1, 10, "filé");
-            teste.inserirProduto(3, 15, "top dos tops");
+            ParteB parteB = new ParteB();
+            parteB.inserirProduto(1, 15, "bom demais");
+            parteB.inserirProduto(1, 9, "top de linha");
+            parteB.inserirProduto(1, 10, "filé");
+            parteB.inserirProduto(3, 15, "top dos tops");
             Console.ReadKey();
         }
     }
