@@ -1,0 +1,7 @@
+C:\Users\iansa\source\repos\Cosmeticos\bin\Debug\Cosmeticos.exe.config
+C:\Users\iansa\source\repos\Cosmeticos\bin\Debug\Cosmeticos.exe
+C:\Users\iansa\source\repos\Cosmeticos\bin\Debug\Cosmeticos.pdb
+C:\Users\iansa\source\repos\Cosmeticos\obj\Debug\Cosmeticos.csprojAssemblyReference.cache
+C:\Users\iansa\source\repos\Cosmeticos\obj\Debug\Cosmeticos.csproj.CoreCompileInputs.cache
+C:\Users\iansa\source\repos\Cosmeticos\obj\Debug\Cosmeticos.exe
+C:\Users\iansa\source\repos\Cosmeticos\obj\Debug\Cosmeticos.pdb
